@@ -8,4 +8,4 @@ For the sake of completeness and to cover a broader range of hallucination types
 
 ## License
 
-HaluEval-Wild uses [MIT License](./LICENSE).
+HaluEval-Wild uses [Apache-2.0 License](./LICENSE).
